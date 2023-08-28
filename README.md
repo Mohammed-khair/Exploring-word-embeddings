@@ -27,4 +27,3 @@ Here's a quick overview of what we'll be exploring in this notebook:
 4. **Finding Nearest Neighbors**: We'll find the nearest neighbors of a given word based on Euclidean distances between vectors.
 
 5. **Clustering**: We'll attempt to cluster words based on their embeddings using K-means clustering.
-6. 
